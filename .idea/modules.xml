@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../nasa-app-be/.idea/nasa-app-be.iml" filepath="$PROJECT_DIR$/../nasa-app-be/.idea/nasa-app-be.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/nasa-app-ssr.iml" filepath="$PROJECT_DIR$/.idea/nasa-app-ssr.iml" />
     </modules>
   </component>

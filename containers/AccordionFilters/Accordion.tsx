@@ -12,7 +12,7 @@ import InputField from '@/components/TextField/TextField';
 
 export default function AccordionFilters() {
   return (
-    <div>
+    <div className="basis-1/4">
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}

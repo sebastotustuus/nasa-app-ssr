@@ -1,7 +1,7 @@
 export interface ListImagesProps {
-    listImages: Array<ListImagesMetadata>
+  listImages: Array<ListImagesMetadata>;
 }
 
 interface ListImagesMetadata {
-    url: string
+  url: string;
 }

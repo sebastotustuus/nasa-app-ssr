@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 
-.card_image img {
-    transition: transform .2s;
+.card_image {
+    transition: all .5s ease;
 }
 
 .card_image:hover {
